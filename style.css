@@ -1,0 +1,781 @@
+body{
+    margin: 0px;
+    width: 1333px;
+}
+
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #04AA6D;
+    position: fixed;
+    top: 0;
+    width: 1333px;
+    z-index: 10;
+  }
+  
+  li {
+    float: left;
+    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+  }
+  
+  li a {
+    font-size: 20px;
+    font-family: serif;
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 17.9px;
+    text-decoration: none;
+  }
+
+.nav-bar .same-clr a:hover{
+    background-color: lightgreen;
+    color: black;
+}
+
+
+    
+        
+  /* Main Div Which Contain all Alphabet Sections */ 
+    
+ .main-div{
+    background-color: #1abc9c;
+    height: 16520px;
+    margin-top: 0px;
+ } 
+
+ /* Alphabet A */
+
+ #sec-A{
+    width: 100%;
+    height: 635px;
+    
+   
+}
+ #sec-A .a-left{
+    position: absolute;
+    width: 700px;
+    height:635px ;
+    text-align: center;
+    font-size: 50px;
+
+}
+ #sec-A .a-right{
+    position: absolute;
+    margin-left: 705px;
+    width: 627px;
+    height:635px ;
+    background-image: url("images/apple.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    margin-top: 90px;
+}
+
+/* Alphabet B */
+
+#sec-B{
+    width: 100%;
+    height: 635px;    
+}
+
+ #sec-B .b-left{
+    position: absolute;
+    width: 700px;
+    height:635px ;
+    text-align: center;
+    font-size: 50px;
+}
+
+ #sec-B .b-right{
+    position: absolute;
+    margin-left: 705px;
+    width: 625px;
+    height:635px ;
+    background-image: url("images/butterfly.jpeg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    margin-top: 90px;
+}
+
+/* Alphabet C */
+
+#sec-C{
+    width: 100%;
+    height: 635px;  
+}
+
+ #sec-C .c-left{
+   
+    position: absolute;
+    width: 700px;
+    height:635px ;
+    text-align: center;
+    font-size: 50px;
+}
+
+ #sec-C .c-right{
+    position: absolute;
+    margin-left: 705px;
+    width: 625px;
+    height:635px ;
+    background-image: url("images/carrot.png!sw800");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    margin-top: 90px;
+}
+
+/* Alphabet D */
+
+#sec-D{
+    width: 100%;
+    height: 635px;
+   
+}
+
+ #sec-D .d-left{
+    position: absolute;
+    width: 700px;
+    height:635px ;
+    text-align: center;
+    font-size: 50px;
+}
+
+ #sec-D .d-right{
+    position: absolute;
+    margin-left: 705px;
+    width: 625px;
+    height:635px ;
+    background-image: url("images/duck5.jpeg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    margin-top: 90px;
+}
+
+/* Alphabet E */
+
+#sec-E{
+    width: 100%;
+   height: 635px;
+}
+
+#sec-E .e-left{
+   position: absolute;
+   width: 700px;
+   height:635px ;
+   text-align: center;
+   font-size: 50px;
+}
+
+#sec-E .e-right{
+   position: absolute;
+   margin-left: 705px;
+   width: 625px;
+   height:635px ;
+   background-image: url("images/elephant.jpeg");
+   background-repeat: no-repeat;
+   background-size: 400px;
+   margin-top: 90px;
+}
+
+/* Alphabet F */
+
+#sec-F{
+   width: 100%;
+   height: 635px;
+  
+}
+#sec-F .f-left{
+   position: absolute;
+   width: 700px;
+   height:635px ;
+   text-align: center;
+   font-size: 50px;
+}
+
+#sec-F .f-right{
+   position: absolute;
+   margin-left: 705px;
+   width: 625px;
+   height:635px ;
+   background-image: url("images/foot.jpeg");
+   background-repeat: no-repeat;
+   background-size: 400px;
+   margin-top: 90px;
+}
+
+/* Alphabet G */
+
+#sec-G{
+    width: 100%;
+   height: 635px;
+  
+}
+#sec-G .g-left{
+   position: absolute;
+   width: 700px;
+   height:635px ;
+   text-align: center;
+   font-size: 50px;
+
+}
+
+#sec-G .g-right{
+   
+   position: absolute;
+   margin-left: 705px;
+   width: 625px;
+   height:635px ;
+   background-image: url("images/grapes.jpeg");
+   background-repeat: no-repeat;
+   background-size: 400px;
+   margin-top: 90px;
+}
+
+/* Alphabet H */
+
+#sec-H{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-H .h-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-H .h-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/hammer.avif");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet I */
+
+#sec-I{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-I .i-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-I .i-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/iron.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet J */
+
+#sec-J{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-J .j-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-J .j-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/jar.jpg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet K */
+
+#sec-K{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-K .k-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-K .k-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/kangroo.jpg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet L */
+
+#sec-L{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-L .l-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-L .l-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/lamp1.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet M */
+
+#sec-M{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-M .m-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-M .m-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/mng.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet N */
+
+#sec-N{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-N .n-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-N .n-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/nest.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet O */
+
+#sec-O{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-O .o-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-O .o-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/orange.avif");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet P */
+
+#sec-P{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-P .p-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-P .p-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/parrot.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet Q */
+
+#sec-Q{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-Q .q-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-Q .q-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/quill.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet R */
+
+#sec-R{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-R .r-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-R .r-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/rainbow.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet S */
+
+#sec-S{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-S .s-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-S .s-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/sun.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet T */
+
+#sec-T{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-T .t-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-T .t-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/tree.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet U */
+
+#sec-U{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-U .u-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-U .u-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/umbrella.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet V */
+
+#sec-V{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-V .v-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-V .v-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/van.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet W */
+
+#sec-W{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-W .w-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-W .w-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/whale.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet X */
+
+#sec-X{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-X .x-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-X .x-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/xylo.png");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet Y */
+
+#sec-Y{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-Y .y-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-Y .y-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/yogurt.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+/* Alphabet Z */
+
+#sec-Z{
+   width: 100%;
+  height: 635px;
+ 
+}
+#sec-Z .z-left{
+  
+  position: absolute;
+  width: 700px;
+  height:635px ;
+  text-align: center;
+  font-size: 50px;
+
+}
+#sec-Z .z-right{
+  
+  position: absolute;
+  margin-left: 705px;
+  width: 625px;
+  height:635px ;
+  background-image: url("images/zebra.jpeg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  margin-top: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
